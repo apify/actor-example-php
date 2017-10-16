@@ -1,1 +1,1 @@
-# js-apify-act-php
+Example Apify act using PHP
