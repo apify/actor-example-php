@@ -1,6 +1,8 @@
 <?php
 
 print 'Starting ...';
+print 'ENV vars:';
+print_r($_ENV);
 print 'Fetching http://example.com ...';
 $exampleComHtml = file_get_contents('http://example.com');
 print 'Searching for <h1> tag contents ...';
