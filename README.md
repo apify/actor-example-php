@@ -1,4 +1,4 @@
-Example Apify act that uses PHP.
+This is simple example how to use PHP in Apify. It uses custom Dockerfile based on `php:7.0-cli` image.
 
 ## Dockerfile
 
