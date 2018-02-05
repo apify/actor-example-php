@@ -2,7 +2,7 @@ This is simple example how to use PHP in Apify. It uses custom Dockerfile based 
 
 ## Dockerfile
 
-```
+```Dockerfile
 FROM php:7.0-cli
 
 COPY ./* ./
@@ -12,7 +12,7 @@ CMD [ "php", "./main.php" ]
 
 ## main.php
 
-```
+```php
 <?php
 print "Starting ...\n";
 print "ENV vars:\n";
