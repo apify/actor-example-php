@@ -1,4 +1,4 @@
-This is simple example how to use PHP in Apify. It uses custom Dockerfile based on `php:7.0-cli` image.
+This is simple example of how to use PHP in Apify. It uses custom Dockerfile based on `php:7.0-cli` image.
 
 ## Dockerfile
 
